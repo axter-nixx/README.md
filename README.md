@@ -1,6 +1,8 @@
 <div align="center">
 
+
 ### 🛡️ Cybersecurity Enthusiast &nbsp;|&nbsp;  Graphic Design Tinkerer
+### Hello I am Adhish
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them+better;Securing+systems%2C+one+exploit+at+a+time;Pixels+by+day%2C+packets+by+night;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -12,19 +14,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00FF9C&height=150&section=header" width="100%"/>
 </div>
 
-## 🧑‍💻 About Me
+## About Me
 
 
 
-- 🔐 I'm fascinated by **cybersecurity** — password analysis, vulnerability scanning, and risk scoring
-- 🎨 I dabble in **graphic design** — visual identity, UI aesthetics, and clean diagrams
-- 💻 I work primarily in **Neovim**, with Git as my daily driver
-- 📚 Engineering student exploring electronics, data structures, and discrete math along the way
-- 🌱 Always learning — currently deep in security tooling and visual design fundamentals
+- I'm fascinated by **cybersecurity** — password analysis, vulnerability scanning, and risk scoring
+- I dabble in **graphic design** — visual identity, UI aesthetics, and clean diagrams
+- I work primarily in **Neovim**, with Git as my daily driver
+- Engineering student exploring electronics, data structures, and discrete math along the way
+- Always learning — currently deep in security tooling and visual design fundamentals
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -53,51 +55,18 @@
 
 <br>
 
-## 🚀 Featured Project
-
-<div align="center">
-
-### CyberAura
-**A Flask-based cybersecurity web application**
-
-Password strength analysis &nbsp;•&nbsp; URL/threat scanning &nbsp;•&nbsp; Cyber risk scoring engine
-
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" />
-</div>
-
-<br>
-
-##  Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
-</div>
-
-<br>
 
 ##  Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:adhishgurung6@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/YOUR_HANDLE" target="_blank">
+<a href="https://www.instagram.com/gurung.adhish" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 

@@ -14,7 +14,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00FF9C&height=150&section=header" width="100%"/>
 </div>
 
-#### Hello I am Adhish
+# Hello I am Adhish
 
 ## About Me
 

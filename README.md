@@ -1,8 +1,8 @@
 <div align="center">
 
 
-### 🛡️ Cybersecurity Enthusiast &nbsp;|&nbsp;  Graphic Design Tinkerer
-### Hello I am Adhish
+### Cybersecurity Enthusiast &nbsp;|&nbsp;  Graphic Design Tinkerer
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them+better;Securing+systems%2C+one+exploit+at+a+time;Pixels+by+day%2C+packets+by+night;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -13,6 +13,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00FF9C&height=150&section=header" width="100%"/>
 </div>
+
+#### Hello I am Adhish
 
 ## About Me
 
